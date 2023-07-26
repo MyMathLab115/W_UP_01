@@ -62,6 +62,8 @@ The box plot shows, the skill players did an average of 60 push ups, and the lin
 favstats(pushups~position,data=mydata)
 ```
 
+The numerical data shows that there is significant difference between the line players, and the skill players. The mean for the line players is 17, and the mean for the skill players is 50.
+
 
 
 ## Inferential Results
