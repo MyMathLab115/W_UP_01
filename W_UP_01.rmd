@@ -33,7 +33,8 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-The number of push ups is numerical, and the different position is categorical. The format i will be using is Num~Cat. We will also be using a box plot and a numerical summary for numerical descriptive results. At the end we will include a t-test.
+The number of push ups is numerical, and the different position is categorical. The variable analysis i will be using is Num~Cat. We will also be using a box plot and a numerical summary for numerical descriptive results. At the end we will include a t-test.
+
 
 # Results
 
